@@ -1,7 +1,8 @@
 # Dynamic landscape genetics analyses for southern Sierra Nevada fisher
 This repository includes data and code for the following article: 
 
-**"Dynamic landscape genetics predicts disturbance-driven declines in genetic connectivity in an endangered forest carnivore"**
+**"Dynamic landscape genetics predicts disturbance-driven declines in genetic connectivity in an endangered forest carnivore"** 
+
 by Eric Palm, Erin Landguth, Katherine Zeller, Rebecca Green, Kristine Pilgrim, Sarah Stock, Craig Thompson, Michael Schwartz, and Jody Tucker
 
 # Notes 
