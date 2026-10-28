@@ -12,4 +12,4 @@ by Eric Palm, Erin Landguth, Katherine Zeller, Rebecca Green, Kristine Pilgrim, 
 
 # Data and code DOI: 
 
-https://doi.org/XXXXXXXXX
+Data and code will be permanently archived with a DOI at zenodo.org upon article acceptance in a peer-reviewed scientific journal.
